@@ -1,3 +1,3 @@
-module Ost::Crystal
-  VERSION = "0.1.0"
+module Ost
+  VERSION = "0.1.1"
 end
