@@ -1,0 +1,17 @@
+name: ost-crystal
+version: 0.1.0
+
+authors:
+  - Microspino <info@microspino.com>
+
+dependencies:
+  redis:
+    github: stefanwille/crystal-redis
+    version: ~> 1.8.0
+  nido:
+    github: microspino/nido-crystal
+    version: ~> 0.1.0
+
+crystal: 0.23.1
+
+license: MIT
