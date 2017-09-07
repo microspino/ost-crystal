@@ -1,5 +1,5 @@
 name: ost-crystal
-version: 0.1.2
+version: 0.1.3
 
 authors:
   - Microspino <info@microspino.com>
@@ -10,7 +10,7 @@ dependencies:
     version: ~> 1.8.0
   nido:
     github: microspino/nido-crystal
-    version: ~> 0.1.1
+    version: ~> 0.1.2
 
 crystal: 0.23.1
 
